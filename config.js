@@ -13,19 +13,19 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["916297175943","919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943","919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.Owner = ["916297175943","919362639362"];         //If you want singal number so global.Owner = ['919947121619'] Change into your number.
+global.OwnerNumber = ["919947121619"];   //If you want singal number so global.Owner = ['919947121619'] Change into your number.
+global.ownertag = ["919947121619"];
+global.OwnerName = "𝖲𝖸𝖠𝖬_𝖲𝖤𝖱😚♥️";
+global.BotName = "𝑴𝑹.𝑪𝒀𝑩𝑬𝑹_𝒑𝒔𝒚𝒄𝒉𝒐🤖♻️";
+global.packname = "SYAM_SER";                             //Do not change.
+global.author = "By: sʏᴀᴍ_sᴇʀ";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl"; 
+global.SupportGroupLink = "https://chat.whatsapp.com/Hukf6IqR91SjMVmMk"; 
 
 
 //
@@ -38,7 +38,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";                   
+global.location = "ᴘᴀʟᴀᴋᴋᴀᴅ,ᴋᴇʀᴀʟᴀ, India";                   
 global.reactmoji = "❤️";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
@@ -47,9 +47,9 @@ global.lolhuman = "KaysaS";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
+global.BotLogo = fs.readFileSync("https://i.imgur.com/TrjHlgs.jpg");
+global.Thumb = fs.readFileSync("https://i.imgur.com/TrjHlgs.jpg");
+global.Thumb1 = fs.readFileSync("https://i.imgur.com/TrjHlgs.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
@@ -77,18 +77,18 @@ global.ntilink = []
 //
 global.mess = {
     jobdone: 'Here you go...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command *ᴏᴏᴘs!*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only my *Owner* can use this command, ʜᴀʜᴀ😌📍!',
+    grouponly: 'This command is only made for *Groups*, ʜᴀʜᴀ📍!',
+    privateonly: 'This command is only made for *Private Chat*, ʜᴀʜᴀ😌📍!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Just Wait...',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*, ʏᴇᴘ🙃📍!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert ʙʀᴜʜʜ🕊️! This is not a NSFW enabled group!'
     
 }
 

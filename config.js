@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
+global.Owner = ["+1(970)900-3557", "+1(970)900-3557"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+1 (970) 900-3557", "+1 (970) 900-3557"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+1 (970) 900-3557"];
+global.OwnerName = "SYAM-SER";
 global.BotName = "A17";
 global.packname = "A17 Bot";                             //Do not change.
 global.author = "By: Kai";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://t.me/+ts7jY2FS3y9jNjRl";
 
 
 //
@@ -44,7 +44,7 @@ global.openAiAPI = "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";
 global.location = "Tata City, India";
 global.reactmoji = "❤️";
 global.themeemoji = "💖";
-global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
+global.vidmenu = { url: 'https://telegra.ph/file/62227648c11c9e2555483.jpg' };
 global.websitex = "https://github.com/Kai0071";
 global.lolhuman = "KaysaS";
 
